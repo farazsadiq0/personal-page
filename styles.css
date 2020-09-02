@@ -1,0 +1,131 @@
+
+body{
+margin: 0;
+text-align: center;
+color: #40514E;
+
+}
+h1{
+  color:  #66BFBF;
+  margin: 50px  auto  0 auto;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:  #66BFBF;
+  padding-bottom: 20px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:  #66BFBF;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+
+  color: #EAF6F6;
+}
+.copy{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.contect-me{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.proo{
+  text-decoration: underline;
+
+}
+.topcon{
+  background-color: #d6e0f0;
+  position: relative;
+ padding-top:100px;
+}
+.midcon{
+  margin: 100px auto;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+
+}
+.bottem-cloud{
+  position: absolute;
+  left: 250px;
+
+
+}
+.web-img{
+}
+.personal-pic{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.web-img{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+.seo-img{
+  width: 25%;
+
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+    margin-left: 30px;
+}
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 2px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
